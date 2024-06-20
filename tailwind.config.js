@@ -11,6 +11,8 @@ module.exports = {
         customBiru5 : '#0B4251',
         customBiru6 : '#87BBD7',
         customKuning : '#F2C864',
+        secondaryBlack: "#191919",
+        secondaryGrey: "#EAEAEA",
 
       },
     },
